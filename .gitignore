@@ -1,2 +1,4 @@
 .idea
 data/key_config.json
+data
+*data*
